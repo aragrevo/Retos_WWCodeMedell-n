@@ -1,5 +1,5 @@
 
-# ¡¡Reciban una bienvenida a la línea de Backend de los #codechallenges de #WWC 2020!!
+# ¡¡Reciban una bienvenida a la línea de lógica de los #codechallenges de #WWC 2020!!
 
 ## Este es el reto #1
 
